@@ -1,4 +1,6 @@
 <?php
+     // git pour le versonning de nos projets
+
     /*********************************************************************************
      * Zurmo is a customer relationship management program developed by
      * Zurmo, Inc. Copyright (C) 2015 Zurmo Inc.
